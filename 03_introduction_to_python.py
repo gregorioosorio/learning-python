@@ -58,3 +58,5 @@ print(squares + [36, 49, 64])
 cubes = [1, 8, 27, 65, 125]
 cubes[3] = 64
 print(cubes)
+
+print('-' * 40)
